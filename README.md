@@ -24,7 +24,7 @@ The Radiance Beauty y And Cosmetic E-commerce UI Design offers a glimpse into th
 
 ## Screenshots
 
-
+![Homepage](https://github.com/Jeevannaik66/Radiance-Beauty-E-commerce-UI-Design/assets/117274229/5ba6f427-81d8-47d6-afea-39afb52b92d3)
 
 ## Usage
 
